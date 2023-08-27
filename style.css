@@ -30,6 +30,7 @@ body{
     
     height: 800px;
     padding: 40px;
+    margin-top: 40px;
 }
 
 .image-1-mobile{
@@ -478,6 +479,7 @@ font-family: Inter-Regular;
                 position: absolute;
                 left: 250px;
                 bottom:730px;
+                cursor: pointer;
             }
 
             .pages-mobile{
@@ -531,5 +533,4 @@ font-family: Inter-Regular;
             
 
             
-}
 }
