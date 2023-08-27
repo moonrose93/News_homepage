@@ -277,9 +277,10 @@ font-family: Inter-Regular;
   
   body{
     height: 100vh;
+  }
   
 
-.container{
+ .container{
     position: absolute;
     transform: translate(-50%,-50%);
     top:50%;
@@ -292,6 +293,7 @@ font-family: Inter-Regular;
     max-height: 100vh;
     
     padding: 0px;
+    margin-top: 80px;
 }
 
 .text-container-left{
